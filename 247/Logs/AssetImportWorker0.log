@@ -176,3 +176,35 @@ Received Import Request.
 Start importing Assets/Scenes/StartScene.unity using Guid(8daa6b96f07bc4ced8a31dbd96d0ab97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210716a9e59a5dd9cebee4884578f098') in 0.014754 seconds 
   Import took 0.016809 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 805.237593 seconds.
+  path: Assets/Scenes/GameScene.unity
+  artifactKey: Guid(afc3fcd0b3c0748d99fa11022f92ce84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene.unity using Guid(afc3fcd0b3c0748d99fa11022f92ce84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc6222b7cd0bf628c5055df10c59370') in 0.010325 seconds 
+  Import took 0.022868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 389.255092 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(1f031002ac86f4e8c9a4e54012653f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(1f031002ac86f4e8c9a4e54012653f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4627b8c4bffa6e6718d41611ddaf2b') in 0.002099 seconds 
+  Import took 0.009224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.474155 seconds.
+  path: Assets/Materials/Black.mat
+  artifactKey: Guid(a2aebd4bd61724db98c8420ea071a0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Black.mat using Guid(a2aebd4bd61724db98c8420ea071a0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c34d57098655a7ae659d1131b1b7ae6') in 0.888637 seconds 
+  Import took 0.892688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.424844 seconds.
+  path: Assets/Materials/Black.mat
+  artifactKey: Guid(a2aebd4bd61724db98c8420ea071a0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Black.mat using Guid(a2aebd4bd61724db98c8420ea071a0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddaff5be81889c9f806ce85bf9f49157') in 0.015349 seconds 
+  Import took 0.017695 seconds .
+
