@@ -682,3 +682,59 @@ Received Import Request.
 Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx using Guid(69d59c13a83a7c74a8cc0607ded391ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90196fd520997e345f24925bcf52a172') in 0.009940 seconds 
   Import took 0.012247 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 441.181970 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/Anim_controllers/PT_Medieval_Plague_Doctor_anim_controller.controller
+  artifactKey: Guid(cca1bbbbe0a39b2488e16c53c96a9bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/Anim_controllers/PT_Medieval_Plague_Doctor_anim_controller.controller using Guid(cca1bbbbe0a39b2488e16c53c96a9bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1fec645e0e4f29f9f8bc9ce3832311') in 0.013232 seconds 
+  Import took 0.021956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.896415 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx
+  artifactKey: Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx using Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847b8ba00fd3dd2ecdf6d01df1f23fef') in 0.017301 seconds 
+  Import took 0.019826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01 [RM].fbx
+  artifactKey: Guid(bd1c2e9064da28e4fb0fe4a3f6ff4e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01 [RM].fbx using Guid(bd1c2e9064da28e4fb0fe4a3f6ff4e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '880866fcd3e49c3fcc71f2b7bc0ded1c') in 0.011060 seconds 
+  Import took 0.013266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01.fbx
+  artifactKey: Guid(0536f044bd409ff419dd726bc69d2676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01.fbx using Guid(0536f044bd409ff419dd726bc69d2676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e058090e6be2afb8c447b1b3bac5c47') in 0.011784 seconds 
+  Import took 0.015035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01.fbx
+  artifactKey: Guid(98d8219075968bd43b75fdba6b4463d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01.fbx using Guid(98d8219075968bd43b75fdba6b4463d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e0a040bbfa494e14b4e32ec72b096f') in 0.009757 seconds 
+  Import took 0.012308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Peasant_Pose_02.fbx
+  artifactKey: Guid(5b4708c92d1d63d45b292f6542faecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Peasant_Pose_02.fbx using Guid(5b4708c92d1d63d45b292f6542faecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b6197f6ee94a60e440bfbd0b3cdac8') in 0.092339 seconds 
+  Import took 0.095376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.743308 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Plague_Doctor_pose.fbx
+  artifactKey: Guid(0588ca48017a1164281d258605991aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/PT_Medieval_Plague_Doctor_pose.fbx using Guid(0588ca48017a1164281d258605991aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b160ca9d573d91eea0cbb61220cfed') in 0.037854 seconds 
+  Import took 0.040412 seconds .
+
