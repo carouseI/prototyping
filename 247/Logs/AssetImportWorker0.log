@@ -418,3 +418,187 @@ Received Import Request.
 Start importing Assets/ColorSkies/Textures/Skybox_6/Down_Tex.png using Guid(11a7be3583abbfb4887ddf650e44e7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b50d94a85b613c6104a9d725c109b8') in 0.006401 seconds 
   Import took 0.008262 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 261.710348 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/BigStone 1.prefab
+  artifactKey: Guid(bff151e1d30ee48468a63710c35596a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/BigStone 1.prefab using Guid(bff151e1d30ee48468a63710c35596a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd649e282d1b41ee1af6e8e4572d37714') in 0.425766 seconds 
+  Import took 0.435958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Stones Tile.prefab
+  artifactKey: Guid(72388d1a9d1285246a965299508d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Stones Tile.prefab using Guid(72388d1a9d1285246a965299508d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83503406e96331c3125a88416fde3e6a') in 0.009593 seconds 
+  Import took 0.012003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/LittleStone 3.prefab
+  artifactKey: Guid(4f2bfcd4d48b1304f87f0eb55c22b2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/LittleStone 3.prefab using Guid(4f2bfcd4d48b1304f87f0eb55c22b2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04225e639c438a5a75bc33a9135df517') in 0.007954 seconds 
+  Import took 0.010528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/LittleStone 2.prefab
+  artifactKey: Guid(1fa087e8b03d6da4d8229fd533a41ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/LittleStone 2.prefab using Guid(1fa087e8b03d6da4d8229fd533a41ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542dd79236e0380adfc3f7fd2b12b232') in 0.031621 seconds 
+  Import took 0.034177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Bot 2.prefab
+  artifactKey: Guid(b24af410a59a0cc4c8f01f3ad358b943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Bot 2.prefab using Guid(b24af410a59a0cc4c8f01f3ad358b943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0c2fdae96ebc3f78c9c41010b886cc') in 0.009783 seconds 
+  Import took 0.012650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Bot 1.prefab
+  artifactKey: Guid(162d2f8f57192a14ab9278fc56faf57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Bot 1.prefab using Guid(162d2f8f57192a14ab9278fc56faf57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbbe7cfed1b4e3fc08dd5e3988744940') in 0.015935 seconds 
+  Import took 0.019000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Top 1.prefab
+  artifactKey: Guid(845ad39e51a0a464a864825f760d85e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Top 1.prefab using Guid(845ad39e51a0a464a864825f760d85e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54385d617d1c4d6ac988ecd3e7f63cf') in 0.007129 seconds 
+  Import took 0.009875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Fence.prefab
+  artifactKey: Guid(c4c0a33a13be57f498b5218097d89b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Fence.prefab using Guid(c4c0a33a13be57f498b5218097d89b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595e30be14e700a3d830c76a7bccf11e') in 0.008028 seconds 
+  Import took 0.010626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Bush 1.prefab
+  artifactKey: Guid(404505804505bc346bd277b3ff0dc1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Bush 1.prefab using Guid(404505804505bc346bd277b3ff0dc1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bebab2d98cdf34332a56519fbab117fb') in 0.010098 seconds 
+  Import took 0.012369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Ground Tile.prefab
+  artifactKey: Guid(900e6f9432fab1f4e86d7e9e63e57f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Ground Tile.prefab using Guid(900e6f9432fab1f4e86d7e9e63e57f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d724a47d7b5803e418fb748e2681502') in 0.010058 seconds 
+  Import took 0.012751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Decor.prefab
+  artifactKey: Guid(e5a6cf8986afb0543949930ead35cbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Decor.prefab using Guid(e5a6cf8986afb0543949930ead35cbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c2e4d7430f5916f0013324277e2d83') in 0.008610 seconds 
+  Import took 0.011224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Top 2.prefab
+  artifactKey: Guid(f928cfed68cd2fa41a97871b63b7d54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tile Top 2.prefab using Guid(f928cfed68cd2fa41a97871b63b7d54c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fbb0f0a56ab82a331317f2a096833e4') in 0.011616 seconds 
+  Import took 0.014492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/LittleStone 1.prefab
+  artifactKey: Guid(5119d5f0634b90c4fa893861654e81b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/LittleStone 1.prefab using Guid(5119d5f0634b90c4fa893861654e81b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e80455f553dddbed68b3df32443f58b') in 0.007795 seconds 
+  Import took 0.010363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Bush 2.prefab
+  artifactKey: Guid(25d4358d22a714442ae3c55bec1bbf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Bush 2.prefab using Guid(25d4358d22a714442ae3c55bec1bbf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9526cef7d4b0ae9b37f51b257a4e833c') in 0.008056 seconds 
+  Import took 0.010460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tree 2.prefab
+  artifactKey: Guid(b84103262dbd8cd48a0d67046bee6366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tree 2.prefab using Guid(b84103262dbd8cd48a0d67046bee6366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafbf8c2ae85dd298005907a0a318c59') in 0.006057 seconds 
+  Import took 0.008101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Branch 2.prefab
+  artifactKey: Guid(e8ef785b7b64117448a96bb948329292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Branch 2.prefab using Guid(e8ef785b7b64117448a96bb948329292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b0c820fa8ee35b054e69af61290afa') in 0.005765 seconds 
+  Import took 0.008312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Grass.prefab
+  artifactKey: Guid(e8d2ccbee098ec94a954a38c4f953c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Grass.prefab using Guid(e8d2ccbee098ec94a954a38c4f953c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a687ac1a1f3c9882fad6b57daf83093f') in 0.013670 seconds 
+  Import took 0.017649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Branch 1.prefab
+  artifactKey: Guid(4fdcfaf87ac8ed04e8b7f438cb718b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Branch 1.prefab using Guid(4fdcfaf87ac8ed04e8b7f438cb718b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee42a2fdca84bdd5689f90441d01fc5') in 0.007181 seconds 
+  Import took 0.009673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tree 1.prefab
+  artifactKey: Guid(d26323b6796b9124cbb1d69c674adc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Tree 1.prefab using Guid(d26323b6796b9124cbb1d69c674adc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a432fa5764d4b1ef33bd7e0a538af0f') in 0.008018 seconds 
+  Import took 0.010496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/BigStone 2.prefab
+  artifactKey: Guid(326d053bdd1aa3a438922c178fec8b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/BigStone 2.prefab using Guid(326d053bdd1aa3a438922c178fec8b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cfdadfd6acf8892bb42c5a9ec8ad0f') in 0.008220 seconds 
+  Import took 0.010951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Coin.prefab
+  artifactKey: Guid(ac78353ace64acb4683bc65eb61c7de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Coin.prefab using Guid(ac78353ace64acb4683bc65eb61c7de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fab51a8e4d7eac1d7c82c3953199336') in 0.008278 seconds 
+  Import took 0.010976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Nameplate.prefab
+  artifactKey: Guid(ed6de85b9226e3146b5f62ffb3b4a1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Nameplate.prefab using Guid(ed6de85b9226e3146b5f62ffb3b4a1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8ccf9f7bd3325cb27437a6fc16dd5f') in 0.008237 seconds 
+  Import took 0.010982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Bridge.prefab
+  artifactKey: Guid(2754fe213be5eaf409b94575b0aabd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HYPEPOLY - Isometric Tiles Standart Lite/Prefabs/Material 0/Bridge.prefab using Guid(2754fe213be5eaf409b94575b0aabd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ac4ce2bcd0e9209528aa0058cd3352') in 0.009730 seconds 
+  Import took 0.012377 seconds .
+
