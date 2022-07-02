@@ -17,6 +17,7 @@ public class PlayerLocomotion : MonoBehaviour
     {
         inputManager = GetComponent<InputManager>();
         playerRigidbody = GetComponent<Rigidbody>();
+        cameraObject = Camera.main.transform; //scan scene for default camera tag
     }
 
     public void HandleAllMovement()
