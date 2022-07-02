@@ -7,6 +7,8 @@ public class InputManager : MonoBehaviour
     PlayerControls playerControls;
 
     public Vector2 movementInput; //variables set on 2 axes -- left + right; up + down
+    public float verticalInput;
+    public float horizontalInput;
 
     private void OnEnable()
     {
@@ -23,5 +25,11 @@ public class InputManager : MonoBehaviour
     private void OnDisable() //if attached object is disabled
     {
         playerControls.Disable(); //turn off player controls
+    }
+
+    private void HandleMovementInput()
+    {
+        verticalInput = movementInput.y;
+        horizontalInput = movementInput.x;
     }
 }
