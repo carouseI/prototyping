@@ -47,6 +47,9 @@ public class PlayerLocomotion : MonoBehaviour
         targetDirection.Normalize();
         targetDirection.y = 0;
 
+        if (targetDirection == Vector3.zero)
+            targetDirection = transform.forward; //set rotation to position when player stops movement
+
         Quaternion targetRotation = Quaternion.LookRotation(targetDirection); //quaternion = unity rotation calculations
         Quaternion playerRotation = Quaternion.Slerp(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime); //slerp = rotation between point A + B
 
