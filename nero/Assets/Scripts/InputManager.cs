@@ -27,6 +27,12 @@ public class InputManager : MonoBehaviour
         playerControls.Disable(); //turn off player controls
     }
 
+
+    public void HandleAllInputs()
+    {
+        HandleMovementInput();
+    }
+
     private void HandleMovementInput()
     {
         verticalInput = movementInput.y;
