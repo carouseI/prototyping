@@ -22,7 +22,7 @@ public class PlayerLocomotion : MonoBehaviour
 
     public void HandleAllMovement()
     {
-        HandleAllMovement();
+        HandleMovement();
         HandleRotation();
     }
 
