@@ -21,7 +21,7 @@ public class AnimatorManager : MonoBehaviour
         float snappedHorizontal;
         float snappedVertical;
 
-        #region //snappedHoriMovt
+        #region snapped horizontal
         if (horizontalMovement > 0 && horizontalMovement < 0.55f)
         {
             snappedHorizontal = 0.5f;
@@ -43,8 +43,7 @@ public class AnimatorManager : MonoBehaviour
             snappedHorizontal = 0;
         }
         #endregion
-
-        #region //snappedVertMovt
+        #region snapped vertical
         if (verticalMovement > 0 && verticalMovement < 0.55f)
         {
             snappedVertical = 0.5f;
@@ -67,7 +66,7 @@ public class AnimatorManager : MonoBehaviour
         }
         #endregion
 
-        animator.SetFloat(horizontal, horizontalMovement, 0.1f, Time.deltaTime); //set damp time (blend time) to 0.1f
-        animator.SetFloat(vertical, verticalMovement, 0.1f, Time.deltaTime);
+        animator.SetFloat(horizontal, horizontalMovement, snappedHorizontal, Time.deltaTime); //set damp time (blend time) to 0.1f
+        animator.SetFloat(vertical, verticalMovement, snappedVertical, Time.deltaTime);
     }
 }
