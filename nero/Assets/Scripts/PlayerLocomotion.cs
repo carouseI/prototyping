@@ -11,6 +11,7 @@ public class PlayerLocomotion : MonoBehaviour
     Rigidbody playerRigidbody;
 
     public float movementSpeed = 7;
+    public float rotationSpeed = 15;
 
     private void Awake()
     {
@@ -28,5 +29,20 @@ public class PlayerLocomotion : MonoBehaviour
 
         Vector3 movementVelocity = moveDirection;
         playerRigidbody.velocity = movementVelocity; //move player according to calculations
+    }
+
+    public void HandleRotation()
+    {
+        Vector3 targetDirection = Vector3.zero; //default value = 0
+
+        targetDirection = cameraObject.forward * inputManager.verticalInput;
+        targetDirection = targetDirection + cameraObject.right * inputManager.horizontalInput;
+        targetDirection.Normalize();
+        targetDirection.y = 0;
+
+        Quaternion targetRotation = Quaternion.LookRotation(targetDirection); //quaternion = unity rotation calculations
+        Quaternion playerRotation = Quaternion.Slerp(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime); //slerp = rotation between point A + B
+
+        transform.rotation = playerRotation;
     }
 }
