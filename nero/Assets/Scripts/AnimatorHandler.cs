@@ -13,7 +13,7 @@ namespace Nero
 
         public void Initialize()
         {
-            playerManager = GetComponent<playerManager>();
+            playerManager = GetComponent<PlayerManager>();
             anim = GetComponent<Animator>();
         }
 

@@ -7,6 +7,7 @@ namespace Nero
     public class PlayerManager : MonoBehaviour
     {
         InputManager inputManager;
+        CameraManager cameraManager;
         PlayerLocomotion playerLocomotion;
 
         public void Awake()
