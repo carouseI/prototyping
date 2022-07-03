@@ -1222,3 +1222,11 @@ Received Import Request.
 Start importing Assets/Scripts/InputManager.cs using Guid(a9b7c737744184c58b2ec04d5af38c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed04bf3fb5c186f7a1d8853dee0e772') in 0.003095 seconds 
   Import took 0.006429 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 513.809488 seconds.
+  path: Assets/AnimatorHandler.cs
+  artifactKey: Guid(463efd6b64c9647b882f57f666b1babe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimatorHandler.cs using Guid(463efd6b64c9647b882f57f666b1babe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f21a7a40e41a960c6e28878095d54cf') in 0.017952 seconds 
+  Import took 0.047304 seconds .
+
