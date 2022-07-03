@@ -9,18 +9,76 @@ namespace Nero
         PlayerManager playerManager;
         PlayerLocomotion playerLocomotion;
 
-        int vertical;
-        int horizontal;
+        int vert;
+        int hori;
 
         public bool canRotate;
 
         public void Initialize()
         {
             playerManager = GetComponent<PlayerManager>();
-            animator = GetComponent<Animator>();
+            anim = GetComponent<Animator>();
 
-            vertical = Animator.StringToHash("Vertical");
-            horizontal = Animator.StringToHash("Horizontal");
+            vert = Animator.StringToHash("Vertical");
+            hori = Animator.StringToHash("Horizontal");
+        }
+
+        public void UpdateAnimatorValues(float verticalMovement, float horizontalMovement, bool isWalking)
+        {
+            #region vertical clamp
+            float v = 0;
+
+            if (verticalMovement > 0 && verticalMovement < 0.55f) // if greater than 0 + less than 0.55
+            {
+                v = 0.5f;
+            }
+            else if (verticalMovement > 0.55f) //if greater than 0.55
+            {
+                v = 1;
+            }
+            else if (verticalMovement < 0 && verticalMovement > -0.55f) //if less than 0 + greater tan -0.55
+            {
+                v = -0.5f;
+            }
+            else if (verticalMovement < -0.55f) //if less than -0.55
+            {
+                v = -1;
+            }
+            else
+            {
+                v = 0;
+            }
+            #endregion
+            #region horizontal clamp
+            float h = 0;
+
+            if (horizontalMovement > 0 && horizontalMovement < 0.55f) // if greater than 0 + less than 0.55
+            {
+                h = 0.5f;
+            }
+            else if (horizontalMovement > 0.55f) //if greater than 0.55
+            {
+                h = 1;
+            }
+            else if (horizontalMovement < 0 && horizontalMovement > -0.55f) //if less than 0 + greater tan -0.55
+            {
+                h = -0.5f;
+            }
+            else if (horizontalMovement < -0.55f) //if less than -0.55
+            {
+                h = -1;
+            }
+            else
+            {
+                h = 0;
+            }
+            #endregion
+
+            if (isWalking)
+            {
+                v = 2;
+                h = horizontalMovement;
+            }
         }
 
         public void CanRotate()
