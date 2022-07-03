@@ -1230,3 +1230,11 @@ Received Import Request.
 Start importing Assets/AnimatorHandler.cs using Guid(463efd6b64c9647b882f57f666b1babe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f21a7a40e41a960c6e28878095d54cf') in 0.017952 seconds 
   Import took 0.047304 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1181.547131 seconds.
+  path: Assets/Scripts/CameraManager.cs
+  artifactKey: Guid(5e6ca7f6088f74391a9176233d0a1e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraManager.cs using Guid(5e6ca7f6088f74391a9176233d0a1e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12b1490f696ebb3ddff4e09f342a4df') in 0.014821 seconds 
+  Import took 0.025902 seconds .
+
