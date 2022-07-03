@@ -10,14 +10,28 @@ public class PlayerLocomotion : MonoBehaviour
     Transform cameraObject;
     Rigidbody playerRigidbody;
 
+    [HideInInspector]
+    public Transform myTransform;
+    [HideInInspector]
+    public AnimatorManager animatorManager;
+
+    [SerializeField]
     public float movementSpeed = 7;
+    [SerializeField]
     public float rotationSpeed = 15;
 
-    private void Awake()
+    void Start()
     {
         inputManager = GetComponent<InputManager>();
         playerRigidbody = GetComponent<Rigidbody>();
+        animatorManager = GetComponent<AnimatorManager>();
         cameraObject = Camera.main.transform; //scan scene for default camera tag
+        myTransform = transform;
+    }
+
+    public void Update()
+    {
+        float delta = Time.deltaTime;
     }
 
     public void HandleAllMovement()
