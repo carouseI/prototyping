@@ -66,7 +66,7 @@ public class AnimatorManager : MonoBehaviour
         }
         #endregion
 
-        animator.SetFloat(horizontal, horizontalMovement, snappedHorizontal, Time.deltaTime); //set damp time (blend time) to 0.1f
-        animator.SetFloat(vertical, verticalMovement, snappedVertical, Time.deltaTime);
+        animator.SetFloat(horizontal, snappedHorizontal, 0.1f, Time.deltaTime); //set damp time (blend time) to 0.1f
+        animator.SetFloat(vertical, 0.1f, snappedVertical, Time.deltaTime);
     }
 }
