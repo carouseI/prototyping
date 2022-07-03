@@ -7,6 +7,7 @@ public class AnimatorManager : MonoBehaviour
     Animator animator;
     int horizontal;
     int vertical;
+    public bool canRotate;
 
     private void Awake()
     {
@@ -68,5 +69,15 @@ public class AnimatorManager : MonoBehaviour
 
         animator.SetFloat(horizontal, snappedHorizontal, 0.1f, Time.deltaTime); //set damp time (blend time) to 0.1f
         animator.SetFloat(vertical, snappedVertical, 0.1f, Time.deltaTime);
+    }
+
+    public void CanRotate()
+    {
+        canRotate = true;
+    }
+
+    public void StopRotation()
+    {
+        canRotate = false;
     }
 }
