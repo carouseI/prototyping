@@ -2,24 +2,31 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerManager : MonoBehaviour
+namespace Nero
 {
-    InputManager inputManager;
-    PlayerLocomotion playerLocomotion;
-
-    private void Awake()
+    public class PlayerManager : MonoBehaviour
     {
-        inputManager = GetComponent<InputManager>();
-        playerLocomotion = GetComponent<PlayerLocomotion>();
-    }
+        InputManager inputManager;
+        CameraManager cameraManager;
+        PlayerLocomotion playerLocomotion;
 
-    private void Update()
-    {
-        inputManager.HandleAllInputs();
-    }
+        private void Awake()
+        {
+            inputManager = GetComponent<InputManager>();
+            cameraManager = FindObjectOfType<CameraManager>();
+            playerLocomotion = GetComponent<PlayerLocomotion>();
 
-    private void FixedUpdate()
-    {
-        playerLocomotion.HandleAllMovement();
+            Cursor.visible = false;
+        }
+
+        private void Update()
+        {
+            inputManager.HandleAllInputs();
+        }
+
+        private void FixedUpdate()
+        {
+            playerLocomotion.HandleAllMovement();
+        }
     }
 }
