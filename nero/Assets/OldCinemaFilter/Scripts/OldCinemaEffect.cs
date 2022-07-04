@@ -59,7 +59,7 @@ public class OldCinemaEffect : MonoBehaviour {
         m_ConstantBuffer.VignetteStrange = 100 - VignetteStrange;
         m_ConstantBuffer.FrameOffset = m_FrameOffset;
 
-        if (Input.GetKeyDown(KeyCode.F))
+        //if (Input.GetKeyDown(KeyCode.F))
             ScreenCapture.CaptureScreenshot("Frame.png");
 
         m_FrameIndex++;
