@@ -596,7 +596,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GrainStrange: 0.2
   VignetteStrange: 75
-  JitterStrange: 0.0025
+  JitterStrange: 0.0008
 --- !u!1 &1218006139
 GameObject:
   m_ObjectHideFlags: 0
