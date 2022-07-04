@@ -19,7 +19,7 @@ namespace Nero
         private Vector3 cameraFollowVelocity = Vector3.zero; //camera follow speed
         private Vector3 cameraVectorPosition; //use vector3 to edit z position, cannot use transform
 
-        #region //public floats
+        #region public floats
         public float cameraCollisionOffset = 0.2f; //big offset = big distance pushed away from object -- how much camera will jump off objects; keep low
         public float minimumCollisionOffset = 0.2f;
         public float cameraCollisionRadius = 2; //use for raycasting, keep small
