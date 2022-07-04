@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3576001523408999043}
   - component: {fileID: 3592119141199702047}
   - component: {fileID: 3601523809855602827}
+  - component: {fileID: -7953610406579787383}
   m_Layer: 0
   m_Name: rpgpp_lt_mountain_01
   m_TagString: Untagged
@@ -81,3 +82,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-7953610406579787383
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3578713246099272209}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 166.25513, y: 78.35386, z: 166.25226}
+  m_Center: {x: 0.00078582764, y: 39.35129, z: 0.00022888184}
