@@ -658,3 +658,11 @@ Received Import Request.
 Start importing Assets/Prefabs/rpgpp_lt_building_03.prefab using Guid(43c96cd0d62474efc81da6ba1fbc2bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2a7b8fc458a9fc9af460810675509e') in 0.010141 seconds 
   Import took 0.013552 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 77.955683 seconds.
+  path: Assets/Prefabs/rpgpp_lt_building_04.prefab
+  artifactKey: Guid(cda83b1906a314ba68a980c6b221375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/rpgpp_lt_building_04.prefab using Guid(cda83b1906a314ba68a980c6b221375c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c42a8464ec4e937fb1c81f4552d8a1') in 0.051321 seconds 
+  Import took 0.072393 seconds .
+
