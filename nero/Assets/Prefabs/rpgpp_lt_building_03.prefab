@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 9021959710338527644}
   - component: {fileID: 9012164186674642746}
   - component: {fileID: 8902293389373805251}
+  - component: {fileID: 4344578379670451708}
   m_Layer: 0
   m_Name: rpgpp_lt_building_03
   m_TagString: Untagged
@@ -91,7 +92,20 @@ BoxCollider:
   m_GameObject: {fileID: 9027258898254655742}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 10.983479, y: 10.697996, z: 6.130312}
+  m_Center: {x: -0.96118927, y: 4.8431215, z: -0.78070545}
+--- !u!65 &4344578379670451708
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9027258898254655742}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 11.935985, y: 10.697996, z: 7.7417607}
-  m_Center: {x: -1.084312, y: 4.8431215, z: 0.025018692}
+  m_Size: {x: 7.7710333, y: 10.697996, z: 1.608016}
+  m_Center: {x: 0.6499734, y: 4.8431215, z: 3.0918908}
