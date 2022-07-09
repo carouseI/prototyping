@@ -23,7 +23,7 @@ namespace Nero
         {
             inputManager = GetComponent<InputManager>(); //check for input manager comp
             playerRigidbody = GetComponent<Rigidbody>(); //check for rb comp
-            cameraObject = Camera.main.transform; //scan for object tagged as main camera
+            //cameraObject = Camera.main.transform; //scan for object tagged as main camera
         }
 
         public void HandleAllMovement()
