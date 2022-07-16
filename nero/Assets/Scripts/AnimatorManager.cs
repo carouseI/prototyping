@@ -50,15 +50,15 @@ namespace Nero
             }
             #endregion
 
-            animator.SetFloat(horizontal, snappedHorizontal, 0.1f, Time.deltaTime); //set snapped horizontal animation; 0.1f = damp/blend time, transition between actions to smooth out motion
-            animator.SetFloat(vertical, snappedVertical, 0.1f, Time.deltaTime); //set snapped vertical animation
+            animator.SetFloat("Vertical", snappedVertical, 0.1f, Time.deltaTime); //set snapped vert animation; 0.1f = damp/blend time, transition between actions to smooth out motion
+            animator.SetFloat("Horizontal", snappedHorizontal, 0.1f, Time.deltaTime); //set snapped hori animation
         }
 
-        public void PlayTargetAnimation(string targetAnimator, bool isInteracting)
-        {
-            animator.applyRootMotion = isInteracting; //set root to interacting
-            animator.SetBool("isInteracting", isInteracting); //set bool
-            animator.CrossFade(targetAnimator, 0.2f); //set cross fade
-        }
+        //public void PlayTargetAnimation(string targetAnimator, bool isInteracting)
+        //{
+        //    animator.applyRootMotion = isInteracting; //set root to interacting
+        //    animator.SetBool("isInteracting", isInteracting); //set bool
+        //    animator.CrossFade(targetAnimator, 0.2f); //set cross fade
+        //}
     }
 }

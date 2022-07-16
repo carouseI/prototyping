@@ -34,8 +34,8 @@ namespace Nero
 
         private void HandleMovement()
         {
-            moveDirection = cameraObject.forward * inputManager.verticalInput; //movement input in camera direction * vertical input
-            moveDirection = moveDirection + cameraObject.right * inputManager.horizontalInput; //move left/right based on horizont input + camera direction
+            moveDirection = cameraObject.forward * inputManager.verticalMovementInput; //movement input in camera direction * vertical input
+            moveDirection = moveDirection + cameraObject.right * inputManager.horizontalMovementInput; //move left/right based on horizont input + camera direction
             moveDirection.Normalize(); //keep vector direction, change length to 1
             moveDirection.y = 0; //stop player from walking in air
             moveDirection = moveDirection * movementSpeed; //calculate, direction * speed
