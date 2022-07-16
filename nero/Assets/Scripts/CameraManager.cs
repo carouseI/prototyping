@@ -8,6 +8,7 @@ namespace Nero
     {
         InputManager inputManager;
 
+        [Header("Camera Transforms")]
         public Transform targetTransform; //object camera will follow, after every frame is processed
         public Transform cameraPivot; //object camera uses to pivot
         public Transform cameraTransform; //transform of actual camera object in scene
@@ -61,8 +62,8 @@ namespace Nero
             Vector3 rotation;
             Quaternion targetRotation;
 
-            lookAngle = lookAngle + (inputManager.cameraInputX * cameraLookSpeed); //set camera orientation on x-axis
-            pivotAngle = pivotAngle - (inputManager.cameraInputY * cameraPivotSpeed); //set camera orientation on y-axis
+            lookAngle = lookAngle + (inputManager.horizontalCameraInput * cameraLookSpeed); //set camera orientation on x-axis
+            pivotAngle = pivotAngle - (inputManager.verticalCameraInput * cameraPivotSpeed); //set camera orientation on y-axis
             pivotAngle = Mathf.Clamp(pivotAngle, minimumPivotAngle, maximumPivotAngle); //lock max + min rotation values
 
             rotation = Vector3.zero; //set vector zeroes on all positions

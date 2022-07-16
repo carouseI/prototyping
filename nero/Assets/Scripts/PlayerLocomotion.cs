@@ -48,8 +48,8 @@ namespace Nero
         {
             Vector3 targetDirection = Vector3.zero; //default to zero on all values
 
-            targetDirection = cameraObject.forward * inputManager.verticalInput; //set player to always facing forward/running direction
-            targetDirection = targetDirection + cameraObject.right * inputManager.horizontalInput; //direction + camera * horizontal input
+            targetDirection = cameraObject.forward * inputManager.verticalMovementInput; //set player to always facing forward/running direction
+            targetDirection = targetDirection + cameraObject.right * inputManager.horizontalMovementInput; //direction + camera * horizontal input
             targetDirection.Normalize(); //search for direction of rotation based on input
             targetDirection.y = 0; //set to 0
 
