@@ -1,0 +1,234 @@
+Unity Editor version:    2020.3.27f1 (e759542391ea)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.3.1 (Build 21E258)
+Darwin version:          21.4.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mdh/Documents/GitHub/prototyping/nero
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50740
+Successfully changed project path to: /Users/mdh/Documents/GitHub/prototyping/nero
+/Users/mdh/Documents/GitHub/prototyping/nero
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mdh/Documents/GitHub/prototyping/nero/Assets
+GfxDevice: creating device client; threaded=0
+2022-07-16 13:43:49.028 Unity[55706:20987419] (null) preferred device: Apple M1 (high power)
+2022-07-16 13:43:49.028 Unity[55706:20987419] Metal devices available: 1
+2022-07-16 13:43:49.028 Unity[55706:20987419] 0: Apple M1 (high power)
+2022-07-16 13:43:49.029 Unity[55706:20987419] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56706
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.27f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003007 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.246 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1247ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1029ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (174ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (540ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (303ms)
+				ProcessInitializeOnLoadMethodAttributes (99ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004165 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.335 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2336ms)
+		BeginReloadAssembly (239ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (30ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (2009ms)
+			LoadAssemblies (181ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (337ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1139ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (162ms)
+				ProcessInitializeOnLoadAttributes (898ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (33ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.003782 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.005097 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.27f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+2022-07-16 13:43:53.741 Unity[55706:20987419] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000396f5d0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-07-16 13:43:53.745 Unity[55706:20987419] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003918af0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2002 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.8 MB.
+System memory in use after: 217.4 MB.
+
+Unloading 137 unused Assets to reduce memory usage. Loaded Objects now: 2489.
+Total: 2.366917 ms (FindLiveObjects: 0.093250 ms CreateObjectMapping: 0.039375 ms MarkObjects: 2.044750 ms  DeleteObjects: 0.188750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/PlayerManager.cs
+  artifactKey: Guid(c68a241e569834afba990cdef54a6bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerManager.cs using Guid(c68a241e569834afba990cdef54a6bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90abb4ef91a4592384a3b3982c3fba82') in 0.080301 seconds 
+  Import took 0.084946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.218907 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450b2a8d167abd36c1d856738d5a67fc') in 0.002985 seconds 
+  Import took 0.006481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.342758 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5079fa653fa411d4444a39ba1589bb') in 0.016178 seconds 
+  Import took 0.091366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.972040 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49773d5b9b05700c714e74fe3ab55e1') in 0.002400 seconds 
+  Import took 0.005199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.395108 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e281b0e0440c88478f71d011a6fc6ba') in 0.004664 seconds 
+  Import took 0.011607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.194622 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7e9ba1997b6ca8647646be36672a95') in 0.005469 seconds 
+  Import took 0.008696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.036898 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab3209630da56f4783a746e2813bc4e') in 0.011057 seconds 
+  Import took 0.019782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.481715 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c16b051b0f4d46185ccb58bf9b76af69') in 0.002475 seconds 
+  Import took 0.006519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.324391 seconds.
+  path: Assets/Scripts/PlayerCamera.cs
+  artifactKey: Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerCamera.cs using Guid(3c6120e56b7bb44c195526ce00a39cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a639072b3387409314a9fb7fade980e') in 0.001987 seconds 
+  Import took 0.005480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.011781 seconds.
+  path: Assets/Scripts/PlayerLocomotion.cs
+  artifactKey: Guid(4cb41c416e50b4df998853685d3dc24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerLocomotion.cs using Guid(4cb41c416e50b4df998853685d3dc24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2029e11176e7ca655df99640399c5b3a') in 0.015898 seconds 
+  Import took 0.033587 seconds .
+
