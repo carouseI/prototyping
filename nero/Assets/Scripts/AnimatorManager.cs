@@ -7,65 +7,46 @@ namespace Nero
     public class AnimatorManager : MonoBehaviour
     {
         Animator animator;
-
-        int horizontal;
-        int vertical;
+        float snappedVertical;
+        float snappedHorizontal;
 
         private void Awake()
         {
             animator = GetComponent<Animator>();
-            horizontal = Animator.StringToHash("Horizontal");
-            vertical = Animator.StringToHash("Vertical");
         }
 
-        public void UpdateAnimatorValues(float horizontalMovement, float verticalMovement)
+        public void HandleAnimatorValues(float verticalMovement, float horizontalMovement)
         {
-            float snappedHorizontal;
-            float snappedVertical;
-
-            #region snapped horizontal
-            if (horizontalMovement > 0 && horizontalMovement < 0.55f) //if greater than 0 + less the 0.55
-            {
-                snappedHorizontal = 0.5f; //default to 0.5
-            }
-            else if (horizontalMovement > 0.55f) //if greater than 0.55
-            {
-                snappedHorizontal = 1; //default to 1
-            }
-            else if (horizontalMovement < 0 && horizontalMovement > -0.55f) //if less than 0 + greater than -0.55
-            {
-                snappedHorizontal = -0.5f; //default to -0.5
-            }
-            else if (horizontalMovement < -0.55f) //if less than -0.55
-            {
-                snappedHorizontal = -1; //default to -1
-            }
-            else
-            {
-                snappedHorizontal = 0; //default to 0
-            }
-            #endregion
+            animator.SetFloat("Vertical", verticalMovement, 0.1f, Time.deltaTime);
+            animator.SetFloat("Horizontal", horizontalMovement, 0.1f, Time.deltaTime);
 
             #region Snapped Vertical
-            if (verticalMovement > 0 && verticalMovement < 0.55f) //if greater than 0 + less the 0.55
-            {
-                snappedVertical = 0.5f; //default to 0.5
-            }
-            else if (verticalMovement > 0.55f) //if greater than 0.55
+            if (verticalMovement > 0) //if greater than 0
             {
                 snappedVertical = 1; //default to 1
             }
-            else if (verticalMovement < 0 && verticalMovement > -0.55f) //if less than 0 + greater than -0.55
-            {
-                snappedVertical = -0.5f; //default to -0.5
-            }
-            else if (verticalMovement < -0.55f) //if less than -0.55
+            else if (verticalMovement < 0) //if greater than 0
             {
                 snappedVertical = -1; //default to -1
             }
             else
             {
                 snappedVertical = 0; //default to 0
+            }
+            #endregion
+
+            #region snapped horizontal
+            if (horizontalMovement > 0) //if greater than 0
+            {
+                snappedHorizontal = 1; //default to 1
+            }
+            else if (horizontalMovement < 0) //if less than 0
+            {
+                snappedHorizontal = -1; //default to -1
+            }
+            else
+            {
+                snappedHorizontal = 0; //default to 0
             }
             #endregion
 
