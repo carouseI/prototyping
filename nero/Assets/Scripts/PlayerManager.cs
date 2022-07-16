@@ -6,26 +6,39 @@ namespace Nero
 {
     public class PlayerManager : MonoBehaviour
     {
-        InputManager inputManager;
-        CameraManager cameraManager;
-        PlayerLocomotion playerLocomotion;
+        PlayerCamera playerCamera;
 
-        public void Awake()
+        #region old
+        //InputManager inputManager;
+        //CameraManager cameraManager;
+        //PlayerLocomotion playerLocomotion;
+
+        //public void Awake()
+        //{
+        //    inputManager = GetComponent<InputManager>();
+        //    playerLocomotion = GetComponent<PlayerLocomotion>(); //check for object with locomotion comp
+
+        //    Cursor.visible = false;
+        //}
+
+        //private void Update()
+        //{
+        //    inputManager.HandleAllInput();
+        //}
+
+        //private void FixedUpdate()
+        //{
+        //    playerLocomotion.HandleAllMovement();
+        //}
+        #endregion
+
+        private void Awake()
         {
-            inputManager = GetComponent<InputManager>();
-            playerLocomotion = GetComponent<PlayerLocomotion>(); //check for object with locomotion comp
-
-            Cursor.visible = false;
+            playerCamera = FindObjectOfType<PlayerCamera>();
         }
-
-        private void Update()
+        private void LateUpdate()
         {
-            inputManager.HandleAllInput();
-        }
-
-        private void FixedUpdate()
-        {
-            playerLocomotion.HandleAllMovement();
+            playerCamera.HandleAlleCameraMovement();
         }
     }
 }

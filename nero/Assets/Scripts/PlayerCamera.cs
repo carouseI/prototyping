@@ -18,8 +18,7 @@ namespace Nero
 
         public void HandleAlleCameraMovement()
         {
-            //follow player
-            //rotate camera
+            FollowPlayer();
         }
 
         private void FollowPlayer()
