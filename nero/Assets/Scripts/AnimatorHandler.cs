@@ -14,7 +14,7 @@ namespace Nero
         public void Initialize()
         {
             playerManager = GetComponent<PlayerManager>();
-            anim = GetComponent<Animator>();
+            animator = GetComponent<Animator>();
         }
 
         public void UpdateAnimatorValues(float verticalMovement, float horizontalMovement, bool isWalking)

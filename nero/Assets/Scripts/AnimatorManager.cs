@@ -7,7 +7,6 @@ namespace Nero
     public class AnimatorManager : MonoBehaviour
     {
         public Animator animator;
-        public Animator anim;
 
         int horizontal;
         int vertical;
@@ -74,11 +73,11 @@ namespace Nero
             animator.SetFloat(vertical, snappedVertical, 0.1f, Time.deltaTime); //set snapped vertical animation
         }
 
-        public void PlayTargetAnimation(string targetAnim, bool isInteracting)
+        public void PlayTargetAnimation(string targetAnimator, bool isInteracting)
         {
-            anim.applyRootMotion = isInteracting; //set root to interacting
-            anim.SetBool("isInteracting", isInteracting); //set bool
-            anim.CrossFade(targetAnim, 0.2f); //set cross fade
+            animator.applyRootMotion = isInteracting; //set root to interacting
+            animator.SetBool("isInteracting", isInteracting); //set bool
+            animator.CrossFade(targetAnimator, 0.2f); //set cross fade
         }
     }
 }
