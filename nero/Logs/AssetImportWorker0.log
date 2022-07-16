@@ -232,3 +232,19 @@ Received Import Request.
 Start importing Assets/Scripts/PlayerLocomotion.cs using Guid(4cb41c416e50b4df998853685d3dc24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2029e11176e7ca655df99640399c5b3a') in 0.015898 seconds 
   Import took 0.033587 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 142.944886 seconds.
+  path: Assets/Scripts/InputManager.cs
+  artifactKey: Guid(90080f41353f94b1fab9417e96ce1cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/InputManager.cs using Guid(90080f41353f94b1fab9417e96ce1cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd842f87220e8f336330264c2086ae8b1') in 0.005961 seconds 
+  Import took 0.019312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.446147 seconds.
+  path: Assets/Scripts/PlayerManager1.cs
+  artifactKey: Guid(8ba8255411130414d8ab1636a76109e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerManager1.cs using Guid(8ba8255411130414d8ab1636a76109e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2615b9b8d6f6e72c35296daf759b8660') in 0.003607 seconds 
+  Import took 0.011378 seconds .
+
