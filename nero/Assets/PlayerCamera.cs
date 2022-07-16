@@ -4,15 +4,24 @@ using UnityEngine;
 
 public class PlayerCamera : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public Transform cameraPivot;
+    public Camera cameraObject;
+    public GameObject player;
+
+    Vector3 cameraFollowVelocity = Vector3.zero;
+    Vector3 targetPosition;
+
+    [Header("Camera Speed")]
+    float cameraSmoothTime = 0.2f;
+
+    public void HandleAllCameraMovement()
     {
-        
+
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FollowPlayer()
     {
-        
+        targetPosition = Vector3.SmoothDamp(transform.position, player.transform.position, ref cameraFollowVelocity, cameraSmoothTime * Time.deltaTime); //smoothDamp @ current player position w/ ref velocity for camera follow
+        transform.position = targetPosition;
     }
 }
