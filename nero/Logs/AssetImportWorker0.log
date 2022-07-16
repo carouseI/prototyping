@@ -1790,3 +1790,339 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2779.626079 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Prefabs/BasicMotionsDummy.prefab
+  artifactKey: Guid(d6d06c887a1aae94f8c6e8cc2c0c557b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Prefabs/BasicMotionsDummy.prefab using Guid(d6d06c887a1aae94f8c6e8cc2c0c557b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3495a5d28f930123721c8cf2e42b243') in 0.811093 seconds 
+  Import took 0.829552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_03.fbx
+  artifactKey: Guid(2157a258161805740a6bc70f2135b9a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_03.fbx using Guid(2157a258161805740a6bc70f2135b9a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39cde337434942ee33ea7d1989943bc6') in 0.156739 seconds 
+  Import took 0.161393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_07.prefab
+  artifactKey: Guid(c43dc6ac8a5d8134482d735f9695362e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_07.prefab using Guid(c43dc6ac8a5d8134482d735f9695362e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf188e4006654654330c7b6f5dd1eb7') in 0.008647 seconds 
+  Import took 0.011098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_06.fbx
+  artifactKey: Guid(a1dba65c24e191241b2192294e5c0ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_06.fbx using Guid(a1dba65c24e191241b2192294e5c0ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1691122dbda073790725d9287281ea') in 0.013151 seconds 
+  Import took 0.015690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Book_open_01.prefab
+  artifactKey: Guid(b763418b5ec391047ac5abcf24dd1023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Book_open_01.prefab using Guid(b763418b5ec391047ac5abcf24dd1023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868fe5877ebeb2be2707b2de7de2691b') in 0.007445 seconds 
+  Import took 0.009828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_07.fbx
+  artifactKey: Guid(b23e2a35f1a05aa47b47ae4128a986b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_07.fbx using Guid(b23e2a35f1a05aa47b47ae4128a986b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22556ba3ac09fc94ec7cb4547bfd5ca') in 0.010777 seconds 
+  Import took 0.013052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_04.prefab
+  artifactKey: Guid(869c51fa6b3aff44b9df14ebc92019e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_04.prefab using Guid(869c51fa6b3aff44b9df14ebc92019e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a61a0f08af0e7a3aac6fd3e15dd9f03') in 0.008104 seconds 
+  Import took 0.010340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_01.fbx
+  artifactKey: Guid(4680c944fcc61d449829db854d13cfb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_01.fbx using Guid(4680c944fcc61d449829db854d13cfb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db40acf2c7d8d4cc861a1ee3fc621c44') in 0.010637 seconds 
+  Import took 0.012931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_02.prefab
+  artifactKey: Guid(48d098bbb2cfed74a9d2e169e639ab43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_02.prefab using Guid(48d098bbb2cfed74a9d2e169e639ab43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60470e4b7a417eeb56e95f6c819f4f0') in 0.006451 seconds 
+  Import took 0.008606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_01.prefab
+  artifactKey: Guid(1792b4dd1b6c36a4893c8dbfe7e12b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_01.prefab using Guid(1792b4dd1b6c36a4893c8dbfe7e12b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4a62c7f81fb77e3fcdd63eda5365f9') in 0.008073 seconds 
+  Import took 0.010511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Book_open_01.fbx
+  artifactKey: Guid(88afb3e16e090d344b9a7aed2cafcc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Book_open_01.fbx using Guid(88afb3e16e090d344b9a7aed2cafcc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a153ee4cd93b0fe6c6e0b078ae0bacc') in 0.010692 seconds 
+  Import took 0.013473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_05.fbx
+  artifactKey: Guid(b99efc5b177ba034a8f9f18820696d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_05.fbx using Guid(b99efc5b177ba034a8f9f18820696d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b400a022b6e2b3c1fa651a7a0caf8516') in 0.011088 seconds 
+  Import took 0.013725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Book_closed_01.prefab
+  artifactKey: Guid(9edd61c021e06504da9487cfc69448ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Book_closed_01.prefab using Guid(9edd61c021e06504da9487cfc69448ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef39dd020d21221c9b1388c5a6d8cce6') in 0.007141 seconds 
+  Import took 0.009429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Hand_Lantern_01.prefab
+  artifactKey: Guid(bab4271f6eb5a224fa805f371a734781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Hand_Lantern_01.prefab using Guid(bab4271f6eb5a224fa805f371a734781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d2dbfa0bc8b562a19a569fb7d036119') in 0.007581 seconds 
+  Import took 0.009993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_03.prefab
+  artifactKey: Guid(98903ee867969c749b36a78c7a58a1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_03.prefab using Guid(98903ee867969c749b36a78c7a58a1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadf20578f936697d41b9bb0c7996f70') in 0.007067 seconds 
+  Import took 0.009542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_02.fbx
+  artifactKey: Guid(a4aea15db4fb75e49b736e823f231092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_02.fbx using Guid(a4aea15db4fb75e49b736e823f231092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e10ce6d20d6ef67b41a41d2dad8752') in 0.010936 seconds 
+  Import took 0.013317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_04.fbx
+  artifactKey: Guid(43c79a865357279469fd7c1c4abbc95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_04.fbx using Guid(43c79a865357279469fd7c1c4abbc95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55cb3e46b9542d184f849a11ab039c8d') in 0.010031 seconds 
+  Import took 0.012296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_05.prefab
+  artifactKey: Guid(766f58fe659a3d1458186baece3ac1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_05.prefab using Guid(766f58fe659a3d1458186baece3ac1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e7ae7588f7337b0b364696670e4a85') in 0.006262 seconds 
+  Import took 0.008567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Book_closed_01.fbx
+  artifactKey: Guid(47ee61ebf48f741448c78ad9d246389f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Book_closed_01.fbx using Guid(47ee61ebf48f741448c78ad9d246389f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de6d3581e38d0843afcc2382b67130e') in 0.009733 seconds 
+  Import took 0.012042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Hand_Lantern_01.fbx
+  artifactKey: Guid(58f68d02217c94b4896561c82d971cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Hand_Lantern_01.fbx using Guid(58f68d02217c94b4896561c82d971cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044c35f07796e1f841d473ead4eebec4') in 0.017035 seconds 
+  Import took 0.019319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_06.prefab
+  artifactKey: Guid(bb90912d17da22a4b9ae6726c6605bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_06.prefab using Guid(bb90912d17da22a4b9ae6726c6605bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318d6f4d1c09efd74554e3eda9c5dbe4') in 0.006613 seconds 
+  Import took 0.008819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.765639 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_08.prefab
+  artifactKey: Guid(f972eaf520a33f24a878b82c24e53902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Prefabs/PT_Medieval_Medicine_Bottle_08.prefab using Guid(f972eaf520a33f24a878b82c24e53902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b3838715b93605b8a143247112e50f') in 0.013720 seconds 
+  Import took 0.018589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Weapons/Prefabs/PT_Medieval_Plague_Doctor_Wand.prefab
+  artifactKey: Guid(688d5bb02e4db054584bf9a17f7d8a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Weapons/Prefabs/PT_Medieval_Plague_Doctor_Wand.prefab using Guid(688d5bb02e4db054584bf9a17f7d8a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d6d23608d42d0a299bf1f406d52442') in 0.010272 seconds 
+  Import took 0.013789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_08.fbx
+  artifactKey: Guid(cc52b1b8cae97224d9715de16fdbc135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Props/Sources/Meshes/PT_Medieval_Medicine_Bottle_08.fbx using Guid(cc52b1b8cae97224d9715de16fdbc135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00668732c146b463a603345ff8ed6ea9') in 0.013924 seconds 
+  Import took 0.017027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Weapons/Sources/Meshes/PT_Medieval_Plague_Doctor_Wand.fbx
+  artifactKey: Guid(bc629041694e5cc44b7afe2b9e82c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Weapons/Sources/Meshes/PT_Medieval_Plague_Doctor_Wand.fbx using Guid(bc629041694e5cc44b7afe2b9e82c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df38a7553aa8dda67d62c9fc7292e5b6') in 0.012063 seconds 
+  Import took 0.014935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_6.prefab
+  artifactKey: Guid(064a7159683df4d418a015415767d601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_6.prefab using Guid(064a7159683df4d418a015415767d601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428a336c49a4a3c6025bc187a8ab3590') in 0.007277 seconds 
+  Import took 0.009706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/PT_Medieval_Rock_4.fbx
+  artifactKey: Guid(a915e414ebfaeab4eaf18334efde6333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/PT_Medieval_Rock_4.fbx using Guid(a915e414ebfaeab4eaf18334efde6333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba10c249b6b24b1303e2e759cbb1f8ee') in 0.014982 seconds 
+  Import took 0.017350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4.prefab
+  artifactKey: Guid(ae0c8fb5158ac8c48b54dfa613cfa540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4.prefab using Guid(ae0c8fb5158ac8c48b54dfa613cfa540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e131d5f8f82908e014845f5357084a') in 0.006825 seconds 
+  Import took 0.009081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4 (1).prefab
+  artifactKey: Guid(d0afdcb40a7edb44394c76acbb2ce6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4 (1).prefab using Guid(d0afdcb40a7edb44394c76acbb2ce6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6228d05ab65cfb75c5f072ea69b54f4') in 0.006750 seconds 
+  Import took 0.008929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/PT_Medieval_Rock_6.fbx
+  artifactKey: Guid(ff775ad6de0408246a14b407044826f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/PT_Medieval_Rock_6.fbx using Guid(ff775ad6de0408246a14b407044826f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '505013a65c923e4d2cb7a6ea11e5b3c7') in 0.010072 seconds 
+  Import took 0.012320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Meshes/PT_Medieval_Plague_Doctor.fbx
+  artifactKey: Guid(d45e5c2a692ed15448d53b608d30088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Meshes/PT_Medieval_Plague_Doctor.fbx using Guid(d45e5c2a692ed15448d53b608d30088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a609f91f504aaaf192d3fd1c438d4aff') in 0.025367 seconds 
+  Import took 0.028000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4 (2).prefab
+  artifactKey: Guid(118767dafef35754193ee3238543a20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4 (2).prefab using Guid(118767dafef35754193ee3238543a20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb34a56eb4ed99666847b13d127e9809') in 0.008078 seconds 
+  Import took 0.010639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4 (3).prefab
+  artifactKey: Guid(0ab804c26301f8d4c87f156d0d590c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_4 (3).prefab using Guid(0ab804c26301f8d4c87f156d0d590c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22de62f84c1e4a234aacd6a94f41fd50') in 0.007472 seconds 
+  Import took 0.009867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045769 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_6 (1).prefab
+  artifactKey: Guid(11be096265f5aa94badf039f1d67cd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_6 (1).prefab using Guid(11be096265f5aa94badf039f1d67cd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941d30df6fe841a769a357a407c6cb91') in 0.008944 seconds 
+  Import took 0.012047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Tree_1 1.prefab
+  artifactKey: Guid(41b1630fb6f0623499ff8bfddf82315e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Tree_1 1.prefab using Guid(41b1630fb6f0623499ff8bfddf82315e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13d0187674ac0ce944178a288ccb18b') in 0.008837 seconds 
+  Import took 0.011399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Tree_1 (1).prefab
+  artifactKey: Guid(9cfb40d4887c9594cbc22c1cf4b6e1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Tree_1 (1).prefab using Guid(9cfb40d4887c9594cbc22c1cf4b6e1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f037d92f11f1041a3f060e42a68b52c') in 0.009298 seconds 
+  Import took 0.011997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_6 (2).prefab
+  artifactKey: Guid(3185936d3472bcf448b084640bb6f229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Demos/Plague_Doctor_Free_Asset/Prefabs/PT_Medieval_Rock_6 (2).prefab using Guid(3185936d3472bcf448b084640bb6f229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ce68f9f13e679feea62d3a159336e89') in 0.007154 seconds 
+  Import took 0.010079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/PT_Medieval_Tree_1.fbx
+  artifactKey: Guid(fab0918501d63734e9a19b64c51761ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/PT_Medieval_Tree_1.fbx using Guid(fab0918501d63734e9a19b64c51761ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '823f762655ac6026ed5a1cc81f0ff123') in 0.013900 seconds 
+  Import took 0.016952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.115885 seconds.
+  path: Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01a.prefab
+  artifactKey: Guid(e1032c9b5d7d362489670d42997dceb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01a.prefab using Guid(e1032c9b5d7d362489670d42997dceb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a393eed415920d2317ada15e9f810a') in 0.009133 seconds 
+  Import took 0.012160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01b.prefab
+  artifactKey: Guid(002f7a569314a244fb643e8ea8d00376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Prefabs/Props/Wall_decor/Banners/rpgpp_lt_banner_01b.prefab using Guid(002f7a569314a244fb643e8ea8d00376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3f5566ca2b14d46d5d545e95677fdf') in 0.008004 seconds 
+  Import took 0.010578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095824 seconds.
+  path: Assets/RPGPP_LT/Prefabs/Props/Furniture/Benches/rpgpp_lt_bench_wood_01.prefab
+  artifactKey: Guid(94003cdd02bfa0849b07108d63f10e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Prefabs/Props/Furniture/Benches/rpgpp_lt_bench_wood_01.prefab using Guid(94003cdd02bfa0849b07108d63f10e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '575ff5eff846423d0e8c2f694bb27202') in 0.008415 seconds 
+  Import took 0.011361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_broom_01.prefab
+  artifactKey: Guid(a463cb358b3f799499b5078f511ef61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_broom_01.prefab using Guid(a463cb358b3f799499b5078f511ef61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b70abd1b00379cf36c683438b3e35c') in 0.007044 seconds 
+  Import took 0.009459 seconds .
+
