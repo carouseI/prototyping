@@ -8,16 +8,23 @@ namespace Nero
     {
         PlayerCamera playerCamera;
         InputManager inputManager;
+        PlayerLocomotion playerLocomotion;
 
         private void Awake()
         {
             playerCamera = FindObjectOfType<PlayerCamera>();
             inputManager = GetComponent<InputManager>();
+            playerLocomotion = GetComponent<PlayerLocomotion>();
         }
 
         private void Update()
         {
             inputManager.HandleAllInput();
+        }
+
+        private void FixedUpdate()
+        {
+            playerLocomotion.HandleAllMovement();
         }
 
         private void LateUpdate()

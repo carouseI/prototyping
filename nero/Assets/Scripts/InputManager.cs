@@ -52,7 +52,7 @@ namespace Nero
         {
             verticalMovementInput = movementInput.y; //give value of movement input on y-axis, up/down
             horizontalMovementInput = movementInput.x; //left: -1, right: +1, nothing = 0
-            animatorManager.HandleAnimatorValues(horizontalMovementInput, verticalMovementInput); //pass through vert/hori input, edit anim values depending on frequency on keys pressed
+            animatorManager.HandleAnimatorValues(horizontalMovementInput, verticalMovementInput); //pass through vert/hori input, edit anim values depending on frequency on keys pressed        }
         }
 
         private void HandleCameraInput()
