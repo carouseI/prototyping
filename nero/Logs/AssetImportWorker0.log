@@ -168,3 +168,19 @@ Received Import Request.
 Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01 [RM].fbx using Guid(bd1c2e9064da28e4fb0fe4a3f6ff4e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650eaf14c38a2f2731e208741aa3bdb4') in 0.020710 seconds 
   Import took 0.024302 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 163.056768 seconds.
+  path: Assets/Scripts/InputManager.cs
+  artifactKey: Guid(90080f41353f94b1fab9417e96ce1cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/InputManager.cs using Guid(90080f41353f94b1fab9417e96ce1cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968075b6b4e5bd342b3c8b2982fe525b') in 0.930581 seconds 
+  Import took 0.980891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 277.884840 seconds.
+  path: Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/Anim_controllers/PT_Medieval_Plague_Doctor_anim_controller.controller
+  artifactKey: Guid(cca1bbbbe0a39b2488e16c53c96a9bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polytope Studio/Lowpoly Medieval Characters/Sources/Animations/Anim_controllers/PT_Medieval_Plague_Doctor_anim_controller.controller using Guid(cca1bbbbe0a39b2488e16c53c96a9bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d183cfc592845dae990263f4a11f76a') in 0.208938 seconds 
+  Import took 0.239778 seconds .
+
