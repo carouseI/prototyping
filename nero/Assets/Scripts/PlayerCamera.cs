@@ -16,7 +16,7 @@ namespace Nero
         [Header("Camera Speeds")]
         public float cameraSmoothTime = 0.2f;
 
-        public void HandleAlleCameraMovement()
+        public void HandleAllCameraMovement()
         {
             FollowPlayer();
         }
