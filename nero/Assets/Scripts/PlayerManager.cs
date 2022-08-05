@@ -24,7 +24,7 @@ namespace Nero
 
         private void FixedUpdate()
         {
-            //playerLocomotion.HandleAllMovement();
+            playerLocomotion.HandleAllMovement();
         }
 
         private void LateUpdate()
