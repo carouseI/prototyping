@@ -29,7 +29,7 @@ namespace Nero
 
         private void LateUpdate()
         {
-            playerCamera.HandleAlleCameraMovement();
+            playerCamera.HandleAllCameraMovement();
         }
     }
 }
