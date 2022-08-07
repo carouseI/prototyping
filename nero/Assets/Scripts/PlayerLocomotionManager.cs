@@ -7,7 +7,7 @@ public class PlayerLocomotionManager : MonoBehaviour
     InputManager inputManager;
 
     [Header("Camera Transform")]
-    public Transform cameraHolderTransform;
+    public Transform playerCamera;
 
     [Header("Movement Speed")]
     public float rotationSpeed = 3.5f;
@@ -28,7 +28,7 @@ public class PlayerLocomotionManager : MonoBehaviour
 
     private void HandleRotation()
     {
-        targetRotation = Quaternion.Euler(0, cameraHolderTransform.eulerAngles.y, 0); //only rotate towards 1 direction/where camera is facing
+        targetRotation = Quaternion.Euler(0, playerCamera.eulerAngles.y, 0); //only rotate towards 1 direction/where camera is facing
         playerRotation = Quaternion.Slerp(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime);
 
         if(inputManager.verticalMovementInput != 0 || inputManager.horizontalMovementInput != 0) //only rotate when there is movement input

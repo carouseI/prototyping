@@ -211,7 +211,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1543216753085116367, guid: ca014879105e38940824f2aeca60623c, type: 3}
       propertyPath: m_CullingMode
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1543216753085116367, guid: ca014879105e38940824f2aeca60623c, type: 3}
       propertyPath: m_ApplyRootMotion
@@ -618,6 +618,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 281061ea6cff8466590168aefc0d7043, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerCamera: {fileID: 415550066}
+  rotationSpeed: 3.5
 --- !u!4 &492909080 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1543216753092788333, guid: ca014879105e38940824f2aeca60623c, type: 3}
