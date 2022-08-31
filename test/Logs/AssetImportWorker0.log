@@ -328,3 +328,133 @@ Received Import Request.
 Start importing Assets/Character Models/ZhongLi/tex/Materials/4.mat using Guid(9e54e82b2d48d4eaf8bfdf48221b6d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467b6742a7b9c13e397d03d51551af34') in 0.010364 seconds 
   Import took 0.012309 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 547.554880 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(3e7ce4dfb87004952a9112ddb291b16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(3e7ce4dfb87004952a9112ddb291b16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd120d5427ca0eda025a5f5f6fd9c7038') in 0.002427 seconds 
+  Import took 0.017002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.965341 seconds.
+  path: Assets/Animations/Walking.fbx
+  artifactKey: Guid(0b3d6c1215c6a4a248e71cc22ac58b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Walking.fbx using Guid(0b3d6c1215c6a4a248e71cc22ac58b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c5b41f8a16b4882495b1993e77ac72') in 0.026310 seconds 
+  Import took 0.028814 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002177 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-08-31 15:49:14.489 Unity[17194:579660] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003bfd960 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.252 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2254ms)
+		BeginReloadAssembly (251ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (29ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (1908ms)
+			LoadAssemblies (227ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (344ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (1045ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (248ms)
+				ProcessInitializeOnLoadAttributes (749ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.6 MB.
+System memory in use after: 206.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2025.
+Total: 2.465209 ms (FindLiveObjects: 0.236750 ms CreateObjectMapping: 0.039792 ms MarkObjects: 2.159167 ms  DeleteObjects: 0.027292 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 75.648611 seconds.
+  path: Assets/Animations/Walking.fbx
+  artifactKey: Guid(0b3d6c1215c6a4a248e71cc22ac58b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Walking.fbx using Guid(0b3d6c1215c6a4a248e71cc22ac58b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4387bc0661d604120e5817696a790d') in 0.051104 seconds 
+  Import took 0.053219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.302265 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(66e91c7d82f4a46ae9e8aa6e75ac2051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(66e91c7d82f4a46ae9e8aa6e75ac2051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1196dabc58cd6f36c3676fffe602a0a0') in 0.001375 seconds 
+  Import took 0.003191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.300005 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(619a90b6539b34fe189511a75dd971d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(619a90b6539b34fe189511a75dd971d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbbb14bf7d4029685f446451b4be3920') in 0.001486 seconds 
+  Import took 0.003622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.860557 seconds.
+  path: Assets/Prefabs/ZhongLi.prefab
+  artifactKey: Guid(532c9633682c34407ba08f37265efd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ZhongLi.prefab using Guid(532c9633682c34407ba08f37265efd7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2651a6a7b24a9a8cee90ac8556dc807') in 0.219060 seconds 
+  Import took 0.224642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.161811 seconds.
+  path: Assets/Materials/Cube.mat
+  artifactKey: Guid(0663d48accde54d64a13cd806b09cd68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube.mat using Guid(0663d48accde54d64a13cd806b09cd68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265d283d2b8a1ff59e8d3b8800e62626') in 0.047182 seconds 
+  Import took 0.049315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.929697 seconds.
+  path: Assets/Animations/X Bot@Walking.fbx
+  artifactKey: Guid(2b4de7a59f04340a18c3f36a2e2f6a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/X Bot@Walking.fbx using Guid(2b4de7a59f04340a18c3f36a2e2f6a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05315cc0f87595e40b00d3d501d1777c') in 0.008053 seconds 
+  Import took 0.010688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.462388 seconds.
+  path: Assets/Character Models/ZhongLi/ZhongLi.fbx
+  artifactKey: Guid(b456c5aa3e9d54a34bf9f95964b85ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character Models/ZhongLi/ZhongLi.fbx using Guid(b456c5aa3e9d54a34bf9f95964b85ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cfdaa47529facb332dee3b94ab59be') in 0.201903 seconds 
+  Import took 0.208059 seconds .
+
