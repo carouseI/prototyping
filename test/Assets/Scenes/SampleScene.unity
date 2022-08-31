@@ -128,22 +128,19 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b456c5aa3e9d54a34bf9f95964b85ace, type: 3}
   m_PrefabInstance: {fileID: 300250077}
   m_PrefabAsset: {fileID: 0}
---- !u!111 &940993
-Animation:
+--- !u!114 &940993
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 940992}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: -203655887218126122, guid: 0b3d6c1215c6a4a248e71cc22ac58b55, type: 3}
-  m_Animations:
-  - {fileID: -203655887218126122, guid: 0b3d6c1215c6a4a248e71cc22ac58b55, type: 3}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ea0a70c5683e49cd9f9db1119c27260, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementInput: {x: 0, y: 0}
 --- !u!1001 &300250077
 PrefabInstance:
   m_ObjectHideFlags: 0
