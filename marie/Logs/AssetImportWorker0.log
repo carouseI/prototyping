@@ -192,3 +192,109 @@ Received Import Request.
 Start importing Assets/#NVJOB Slender/Slender/Prefab/Slender.prefab using Guid(c0ec2cd63f93487d92d6623d393c83ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26bc8cb0787839c167b51da68afaf567') in 0.605313 seconds 
   Import took 0.610334 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 73.545488 seconds.
+  path: Assets/PSXShaderKit/Shaders
+  artifactKey: Guid(b55d8d2bd3ad19b42a21fcdc2fb8b8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Shaders using Guid(b55d8d2bd3ad19b42a21fcdc2fb8b8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4792d6e6956b849a4469245bd3afea7') in 0.001248 seconds 
+  Import took 0.004834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.680353 seconds.
+  path: Assets/PSXShaderKit/Shaders/PSX-Unlit Transparent.shader
+  artifactKey: Guid(1b37d1cf11328ee44a1de83f6c28fbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Shaders/PSX-Unlit Transparent.shader using Guid(1b37d1cf11328ee44a1de83f6c28fbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6667a88c5e93e0b93d221965281441') in 0.057372 seconds 
+  Import took 0.061806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.366221 seconds.
+  path: Assets/PSXShaderKit/Shaders/ImageEffects
+  artifactKey: Guid(0e619ea2bec5230408f75a455a0041a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Shaders/ImageEffects using Guid(0e619ea2bec5230408f75a455a0041a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7adf929729418f05a580c5458447fba') in 0.001181 seconds 
+  Import took 0.004507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.384332 seconds.
+  path: Assets/PSXShaderKit/Demo/PSXExample_CameraMovement.cs
+  artifactKey: Guid(faf4171cb4dee5249b6795e3b9f35ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Demo/PSXExample_CameraMovement.cs using Guid(faf4171cb4dee5249b6795e3b9f35ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58f47488e3f3c859fa3fbbec0aa9feb') in 0.785111 seconds 
+  Import took 0.789367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.948791 seconds.
+  path: Assets/PSXShaderKit/Demo/Demo Scene.unity
+  artifactKey: Guid(fcde39c9d7f2d954b9c02d05b59a9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Demo/Demo Scene.unity using Guid(fcde39c9d7f2d954b9c02d05b59a9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84c89a4f29cb535cbff15f7f00645d6') in 0.001264 seconds 
+  Import took 0.003560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.662661 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25492500007940a41096333b0e4ce03') in 0.001810 seconds 
+  Import took 0.005299 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001786 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-09-01 12:54:51.143 Unity[6465:142679] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000023c52d0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  2.040 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2041ms)
+		BeginReloadAssembly (181ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (28ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (1770ms)
+			LoadAssemblies (163ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (322ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (986ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (234ms)
+				ProcessInitializeOnLoadAttributes (713ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1561 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.9 MB.
+System memory in use after: 216.8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2111.
+Total: 2.017417 ms (FindLiveObjects: 0.078875 ms CreateObjectMapping: 0.031667 ms MarkObjects: 1.752708 ms  DeleteObjects: 0.153333 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
