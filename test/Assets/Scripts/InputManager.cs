@@ -24,6 +24,4 @@ public class InputManager : MonoBehaviour
     {
         playerControls.Disable();
     }
-
-
 }
