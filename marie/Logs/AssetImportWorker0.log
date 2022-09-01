@@ -298,3 +298,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 107.280765 seconds.
+  path: Assets/PSXShaderKit/Demo/Assets
+  artifactKey: Guid(7d018b020395db7408ad5e71d7c2dfc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Demo/Assets using Guid(7d018b020395db7408ad5e71d7c2dfc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810ea9cace14343dd34b2ad33fb2d7ee') in 0.004135 seconds 
+  Import took 0.006061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.779259 seconds.
+  path: Assets/PSXShaderKit/Demo/Assets/models
+  artifactKey: Guid(2cffec4846c656745b84ab51195bb9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Demo/Assets/models using Guid(2cffec4846c656745b84ab51195bb9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b6f2126f4b20d8a666acd5a0725691') in 0.001209 seconds 
+  Import took 0.004170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.864731 seconds.
+  path: Assets/PSXShaderKit/Demo/Assets/models/Phasmaphobia_Semi.fbx
+  artifactKey: Guid(d520f065131de7a42b814c4a11e7a89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSXShaderKit/Demo/Assets/models/Phasmaphobia_Semi.fbx using Guid(d520f065131de7a42b814c4a11e7a89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5053e6a5b84db1d6733b4ca04d2eb08') in 0.516855 seconds 
+  Import took 0.521935 seconds .
+
